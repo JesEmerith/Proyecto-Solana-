@@ -1,15 +1,34 @@
-Proyecto del programa Solana Developer! 
-CRUD básico de una tienda de compuertas lógicas.
+# Proyecto del programa Solana Developer! 
 
-Construido con 🛠️
-Rust
-Anchor
+_CRUD básico de una tienda de compuertas lógicas._
 
-Ejecutando las pruebas ⚙️
-El archivo ubicado dentro de la carpeta "client" contiene las funciones necesarias para llevar a cabo las operaciones de un CRUD. 
+## Construido con 🛠️
 
+_Solana Program_
+
+* Rust
+* Anchor
+
+## Ejecutando las pruebas ⚙️
+
+_El archivo ubicado dentro de la carpeta "client" contiene las funciones necesarias para llevar a cabo las operaciones de un CRUD. _
+
+```
 crearTienda("nombre_de_tienda");
+```
+
+```
 agregarCompuerta("74LS99", "XOR");
+```
+
+```
 verCompuertas(nombre_de_tienda);
+```
+
+```
 cambiarEstado("74LS99");
+```
+
+```
 eliminarCompuerta("74LS99");
+```
