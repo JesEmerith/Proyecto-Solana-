@@ -11,7 +11,7 @@ _Solana Program_
 
 ## Ejecutando las pruebas ⚙️
 
-_El archivo ubicado dentro de la carpeta "client" contiene las funciones necesarias para llevar a cabo las operaciones de un CRUD. _
+_El archivo ubicado dentro de la carpeta "client" contiene las funciones necesarias para llevar a cabo las operaciones de un CRUD._
 
 ```
 crearTienda("nombre_de_tienda");
